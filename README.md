@@ -3,7 +3,6 @@
 
   # Trump Persona - The Most Tremendous AI Ever! 
 
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/5h6fdK-VKMMvnF3bFVTjK_SbJTh36S_22ay9iLxU_D8/deploy-status)](https://lighthearted-treacle-a5c5ef.netlify.app)
   [![Follow on X](https://img.shields.io/twitter/follow/TrumpPersona?style=social&logo=x)](https://x.com/TrumpPersona)
   [![GitHub Stars](https://img.shields.io/github/stars/TrumpPersonaAI/Trump-Persona-AI?style=social)](https://github.com/TrumpPersonaAI/Trump-Persona-AI)
 </div>
