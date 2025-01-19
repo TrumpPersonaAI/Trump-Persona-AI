@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 <div align="center">
   <div style="transform: rotate(-2deg);">
-    <a href="trump-persona.io">
+    <a href="https://trump-persona.io">
       <img src="https://img.shields.io/badge/🌟_Try_It_Now!-FF6B3D?style=for-the-badge&logoColor=white" alt="Try It Now" />
 <div align="center">
   <h3 style="color: #FF6B3D; text-shadow: 2px 2px 0 #000;">Make Chat Great Again!</h3>
