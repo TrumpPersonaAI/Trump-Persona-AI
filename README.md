@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1737316506/dg0smvg-07bf7563-ac15-4b07-bd49-1b990c2476c7-removebg-preview_himmv4.png" alt="Trump Persona Logo" width="300"/>
 
-  # 🎪 Trump Persona AI - The Most Tremendous AI Ever! 🎪
+  # Trump Persona AI - The Most Tremendous AI Ever!
 
 
 
